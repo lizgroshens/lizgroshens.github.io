@@ -4,11 +4,15 @@ color:purple; font-family:"Trebuchet MS", Helvetica, sans-serif;
   padding 30px
 }
 
-h4 { color:teal; font-family:"Lato", Helvetica; font-size 32px;
+h4 { color:teal; font-family:"Lato", Helvetica; font-size 32px;text-decoration:underline;
 }
 
-.script { color: purple; font-family:"Lato", Helvetica; font-size 18px; }
+.meat { color: purple; font-family:"Lato", Helvetica; font-size 14px; }
 
 .references { text-align: center;
+
+}
+
+.# { font-size: 1rem;
 
 }
