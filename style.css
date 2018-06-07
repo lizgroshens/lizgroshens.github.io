@@ -3,16 +3,16 @@ color:purple; font-family:"Trebuchet MS", Helvetica, sans-serif;
   text-align: center; 
   padding 30px
 }
-.email { font-style:italic; font-family: "Lato", Helevetica; font-size: 12px; 
+.email { font-style:italic; font-family: "Trebuchet MS", Helevetica; font-size: 12px; 
   text-align: center; }
 
-.address { text-align: center; font-family:"Trebuchet MS", Helevetica, sans-serif;
+.address { text-align: center; font-family: "Trebuchet MS", Helevetica, sans-serif;
 }
 
-h4 { color:teal; font-family:"Lato", Helvetica; font-size 32px;text-decoration:underline;
+h4 { color:teal; font-family:"Trebuchet MS", Helvetica; font-size 32px;text-decoration:underline;
 }
 
-.meat { color: purple; font-family:"Lato", Helvetica; font-size 14px; }
+.meat { color:rgb(88,88,88); font-family: "Trebuchet MS", Helvetica; font-size 14px; }
 
 .references { text-align: center;
 
