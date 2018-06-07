@@ -1,8 +1,9 @@
 .name {
-color:purple; font-family:"Trebuchet MS", Helvetica, sans-serif;
+color:purple; font-family:"Trebuchet MS", Helvetica, sans-serif;text-align: center; 
+  padding 30px
 }
 
-h4 { color:teal; font-family:"Times New Roman", Helvetica; font-size 32px;
-
-
+h4 { color:teal; font-family:"Lato", Helvetica; font-size 32px;
 }
+
+.script { color: purple; font-family:"Lato", Helvetica; font-size 18px; }
