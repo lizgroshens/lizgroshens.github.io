@@ -1,6 +1,10 @@
 .name {
 color:purple; font-size: 20px; font-family:"Trebuchet MS", Helvetica, sans-serif;
-  text-align: center; 
+  text-align: center; border-style: double;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: white;
   padding 20px 
 }
 .email { font-style:italic; font-family: "Trebuchet MS", Helevetica; font-size: 16px; 
