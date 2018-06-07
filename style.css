@@ -1,5 +1,6 @@
 .name {
-color:purple; font-family:"Trebuchet MS", Helvetica, sans-serif;text-align: center; 
+color:purple; font-family:"Trebuchet MS", Helvetica, sans-serif;
+  text-align: center; 
   padding 30px
 }
 
@@ -7,3 +8,7 @@ h4 { color:teal; font-family:"Lato", Helvetica; font-size 32px;
 }
 
 .script { color: purple; font-family:"Lato", Helvetica; font-size 18px; }
+
+.references { text-align: center;
+
+}
